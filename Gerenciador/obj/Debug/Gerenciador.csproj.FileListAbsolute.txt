@@ -1,0 +1,165 @@
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Gerenciador.exe.config
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Gerenciador.exe
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Gerenciador.pdb
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.csprojAssemblyReference.cache
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.cache
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.exe
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.pdb
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\EntityFramework.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\EntityFramework.xml
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.csproj.CopyComplete
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.xml
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csprojAssemblyReference.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CopyComplete
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.pdb
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOPNovo\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Teste.resources
+E:\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe.config
+E:\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe
+E:\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.pdb
+E:\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.dll
+E:\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.dll
+E:\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.xml
+E:\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.xml
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csprojAssemblyReference.cache
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.TelaGerenciadora.resources
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.TelaInicial.resources
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.TelaSplash.resources
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.cache
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CopyComplete
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.exe
+E:\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.pdb
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Gerenciador.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovoUsuario.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.xml
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csprojAssemblyReference.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Gerenciador.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovoUsuario.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.csproj.CopyComplete
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.pdb
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Spartacus.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\BuscaCEP.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarUsuario.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.TelaInicializacao.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastro.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\BuscaCEP.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Spartacus.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastro.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarUsuario.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.TelaInicializacao.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiTestesUsuario.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.mdiGerarRelatorio.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\itextsharp.dll
+D:\Projetos C#\GerenciadorTop\Gerenciador\bin\Debug\itextsharp.xml
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovaFaculdade.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiGerarRelatorio.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovaFaculdade.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiTestesUsuario.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\itextsharp.dll
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\bin\Debug\itextsharp.xml
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarFacul.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastroFacul.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastroFacul.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarFacul.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiCursosFacul.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiNovoCurso.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.novaArea.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiAtualizarCurso.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.AtualizarCurso.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursoPorTipo.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursosPorArea.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiAtribuirNotaMec.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiBuscarAvaliacoes.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.AtualizarCurso.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiAtualizarCurso.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiAtribuirNotaMec.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiNovoCurso.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.novaArea.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiBuscarAvaliacoes.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiCursosFacul.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiGerarRelatorioNotas.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursoPorTipo.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursosPorArea.resources
+D:\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiGerarRelatorioNotas.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiCriarPergunta.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiVisualizarQuestoes.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiModificarQuestao.resources
+D:\Projetos C#\GerenciadorTop\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.ModificarResposta.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiModificarQuestao.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.ModificarResposta.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiCriarPergunta.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiVisualizarQuestoes.resources
+C:\Users\LGuilen\Documents\Projetos C#\GerenciadorTOP\Gerenciador\obj\Debug\Gerenciador.Forms.Form1.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\BuscaCEP.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\EntityFramework.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\itextsharp.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Spartacus.dll
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\EntityFramework.xml
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\itextsharp.xml
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.csprojAssemblyReference.cache
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastro.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.AtualizaCadastroFacul.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.AtualizarCurso.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiAtualizarCurso.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.mdiModificarQuestao.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Atualizações.ModificarResposta.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiAtribuirNotaMec.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiCriarPergunta.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.mdiNovoCurso.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Cadastros.novaArea.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiBuscarAvaliacoes.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiCursosFacul.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiGerarRelatorioNotas.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursoPorTipo.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiListarCursosPorArea.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Consultas.mdiVisualizarQuestoes.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.Gerenciador.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarFacul.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiAtualizarUsuario.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiGerarRelatorio.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovaFaculdade.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiNovoUsuario.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.mdiTestesUsuario.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Forms.TelaInicializacao.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.cache
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.csproj.CopyComplete
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Users\LGuilen\Documents\Arquivos Projeto\Projeto Faculdade\CÓDIGO\GerenciadorTOP (Desktop)\Gerenciador\obj\Debug\Gerenciador.pdb

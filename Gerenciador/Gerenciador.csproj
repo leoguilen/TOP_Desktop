@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F78F5984-E270-4CEF-B846-9B93CEB539A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gerenciador</RootNamespace>
+    <AssemblyName>Gerenciador</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logonovo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BuscaCEP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BuscaCEP.1.0.0\lib\net40\BuscaCEP.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Spartacus, Version=0.44.1.5821, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spartacus.0.44.1\lib\net40\Spartacus.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Area.cs" />
+    <Compile Include="Classes\Banco.cs" />
+    <Compile Include="Classes\Curso.cs" />
+    <Compile Include="Classes\Faculdade.cs" />
+    <Compile Include="Classes\Log.cs" />
+    <Compile Include="Classes\NotaMec.cs" />
+    <Compile Include="Classes\Questoes.cs" />
+    <Compile Include="Classes\TesteUsuario.cs" />
+    <Compile Include="Classes\Usuario.cs" />
+    <Compile Include="Entity\m_bdtop.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>m_bdtop.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\m_bdtop.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\m_bdtop.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>m_bdtop.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_area.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_contato.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_contatoFaculdade.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_curso.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_detalhesResultado.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_email.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_faculdade.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_nivelAcademico.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_notaMec.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_pergunta.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_resposta.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_teste.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_tipoContato.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_tipoContatoFaculdade.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\tb_usuario.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_RelatorioCurso.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_relatorioFaculdades.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_relatorioNotaMec.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_RelatorioQuestoes.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_relatorioResultado.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\v_relatorioUsuario.cs">
+      <DependentUpon>m_bdtop.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizaCadastro.Designer.cs">
+      <DependentUpon>AtualizaCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizaCadastroFacul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizaCadastroFacul.Designer.cs">
+      <DependentUpon>AtualizaCadastroFacul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\AtualizarCurso.Designer.cs">
+      <DependentUpon>AtualizarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarCurso.Designer.cs">
+      <DependentUpon>mdiAtualizarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiModificarQuestao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiModificarQuestao.Designer.cs">
+      <DependentUpon>mdiModificarQuestao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\ModificarResposta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\ModificarResposta.Designer.cs">
+      <DependentUpon>ModificarResposta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiAtribuirNotaMec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiAtribuirNotaMec.Designer.cs">
+      <DependentUpon>mdiAtribuirNotaMec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiCriarPergunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiCriarPergunta.Designer.cs">
+      <DependentUpon>mdiCriarPergunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovoCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovoCurso.Designer.cs">
+      <DependentUpon>mdiNovoCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\novaArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\novaArea.Designer.cs">
+      <DependentUpon>novaArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiBuscarAvaliacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiBuscarAvaliacoes.Designer.cs">
+      <DependentUpon>mdiBuscarAvaliacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiCursosFacul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiCursosFacul.Designer.cs">
+      <DependentUpon>mdiCursosFacul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiGerarRelatorioNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiGerarRelatorioNotas.Designer.cs">
+      <DependentUpon>mdiGerarRelatorioNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiListarCursoPorTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiListarCursoPorTipo.Designer.cs">
+      <DependentUpon>mdiListarCursoPorTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiListarCursosPorArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiListarCursosPorArea.Designer.cs">
+      <DependentUpon>mdiListarCursosPorArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiVisualizarQuestoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiVisualizarQuestoes.Designer.cs">
+      <DependentUpon>mdiVisualizarQuestoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Gerenciador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Gerenciador.Designer.cs">
+      <DependentUpon>Gerenciador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarFacul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarFacul.Designer.cs">
+      <DependentUpon>mdiAtualizarFacul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Atualizações\mdiAtualizarUsuario.Designer.cs">
+      <DependentUpon>mdiAtualizarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiGerarRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiGerarRelatorio.Designer.cs">
+      <DependentUpon>mdiGerarRelatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovaFaculdade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovaFaculdade.Designer.cs">
+      <DependentUpon>mdiNovaFaculdade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cadastros\mdiNovoUsuario.Designer.cs">
+      <DependentUpon>mdiNovoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiTestesUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultas\mdiTestesUsuario.Designer.cs">
+      <DependentUpon>mdiTestesUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TelaInicializacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TelaInicializacao.Designer.cs">
+      <DependentUpon>TelaInicializacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Atualizações\AtualizaCadastro.resx">
+      <DependentUpon>AtualizaCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\AtualizaCadastroFacul.resx">
+      <DependentUpon>AtualizaCadastroFacul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\AtualizarCurso.resx">
+      <DependentUpon>AtualizarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\mdiAtualizarCurso.resx">
+      <DependentUpon>mdiAtualizarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\mdiModificarQuestao.resx">
+      <DependentUpon>mdiModificarQuestao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\ModificarResposta.resx">
+      <DependentUpon>ModificarResposta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\mdiAtribuirNotaMec.resx">
+      <DependentUpon>mdiAtribuirNotaMec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\mdiCriarPergunta.resx">
+      <DependentUpon>mdiCriarPergunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\mdiNovoCurso.resx">
+      <DependentUpon>mdiNovoCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\novaArea.resx">
+      <DependentUpon>novaArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiBuscarAvaliacoes.resx">
+      <DependentUpon>mdiBuscarAvaliacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiCursosFacul.resx">
+      <DependentUpon>mdiCursosFacul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiGerarRelatorioNotas.resx">
+      <DependentUpon>mdiGerarRelatorioNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiListarCursoPorTipo.resx">
+      <DependentUpon>mdiListarCursoPorTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiListarCursosPorArea.resx">
+      <DependentUpon>mdiListarCursosPorArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiVisualizarQuestoes.resx">
+      <DependentUpon>mdiVisualizarQuestoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Gerenciador.resx">
+      <DependentUpon>Gerenciador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\mdiAtualizarFacul.resx">
+      <DependentUpon>mdiAtualizarFacul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Atualizações\mdiAtualizarUsuario.resx">
+      <DependentUpon>mdiAtualizarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiGerarRelatorio.resx">
+      <DependentUpon>mdiGerarRelatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\mdiNovaFaculdade.resx">
+      <DependentUpon>mdiNovaFaculdade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Cadastros\mdiNovoUsuario.resx">
+      <DependentUpon>mdiNovoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultas\mdiTestesUsuario.resx">
+      <DependentUpon>mdiTestesUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TelaInicializacao.resx">
+      <DependentUpon>TelaInicializacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EntityDeploy Include="Entity\m_bdtop.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>m_bdtop.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Entity\m_bdtop.edmx.diagram">
+      <DependentUpon>m_bdtop.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Gerenciador.Classes.Banco.datasource" />
+    <None Include="Properties\DataSources\Gerenciador.Classes.ObjetosDataSet.BancoDesconectado.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\fundoSair3.png" />
+    <None Include="Imagens\fundoUsuario.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\fundo-telaSplash.jpg" />
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar.png" />
+    <None Include="Resources\fundo-facul.png" />
+    <None Include="Imagens\fundoSalvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deletion_icon.png" />
+    <None Include="Resources\cancelarUser.png" />
+    <None Include="Resources\confirmaUser.png" />
+    <None Include="Resources\addUser.png" />
+    <None Include="Resources\addUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoCurso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notas-check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16480[1].png" />
+    <None Include="Resources\help-512[1].png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\Next-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Entity\m_bdtop.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>m_bdtop.edmx</DependentUpon>
+      <LastGenOutput>m_bdtop.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Entity\m_bdtop.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>m_bdtop.edmx</DependentUpon>
+      <LastGenOutput>m_bdtop.cs</LastGenOutput>
+    </Content>
+    <Content Include="logonovo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

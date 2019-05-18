@@ -1,0 +1,170 @@
+03/05/2019 21:15:00 Detalhes: Parâmetro inválido.
+
+07/05/2019 19:53:25 Nova Questão adicionada ao sistema
+
+07/05/2019 19:55:15 Nova Questão adicionada ao sistema
+
+07/05/2019 20:35:47 Nova Questão adicionada ao sistema
+
+07/05/2019 21:26:35 Nova Questão adicionada ao sistema
+
+07/05/2019 21:30:38 Nova Questão adicionada ao sistema
+
+07/05/2019 21:33:08 Nova Questão adicionada ao sistema
+
+07/05/2019 21:36:22 Nova Questão adicionada ao sistema
+
+07/05/2019 21:39:06 Nova Questão adicionada ao sistema
+
+07/05/2019 21:41:22 Nova Questão adicionada ao sistema
+
+07/05/2019 21:44:08 Nova Questão adicionada ao sistema
+
+07/05/2019 21:46:20 Nova Questão adicionada ao sistema
+
+07/05/2019 21:48:28 Nova Questão adicionada ao sistema
+
+07/05/2019 21:51:01 Nova Questão adicionada ao sistema
+
+07/05/2019 21:53:20 Nova Questão adicionada ao sistema
+
+07/05/2019 21:55:20 Nova Questão adicionada ao sistema
+
+07/05/2019 21:58:10 Nova Questão adicionada ao sistema
+
+07/05/2019 22:01:46 Nova Questão adicionada ao sistema
+
+07/05/2019 22:04:19 Nova Questão adicionada ao sistema
+
+07/05/2019 22:06:05 Nova Questão adicionada ao sistema
+
+07/05/2019 22:08:19 Nova Questão adicionada ao sistema
+
+07/05/2019 22:11:00 Nova Questão adicionada ao sistema
+
+07/05/2019 22:12:47 Nova Questão adicionada ao sistema
+
+07/05/2019 22:14:50 Nova Questão adicionada ao sistema
+
+07/05/2019 22:17:03 Nova Questão adicionada ao sistema
+
+07/05/2019 22:19:31 Nova Questão adicionada ao sistema
+
+07/05/2019 22:22:20 Nova Questão adicionada ao sistema
+
+07/05/2019 22:24:13 Resposta modificada
+
+07/05/2019 22:27:03 Resposta modificada
+
+09/05/2019 23:42:52 Novo curso  cadastrado
+
+09/05/2019 23:44:38 Novo curso  cadastrado
+
+09/05/2019 23:47:34 Novo curso  cadastrado
+
+09/05/2019 23:48:54 Novo curso  cadastrado
+
+09/05/2019 23:51:36 Novo curso  cadastrado
+
+09/05/2019 23:52:56 Novo curso  cadastrado
+
+09/05/2019 23:55:13 Novo curso  cadastrado
+
+09/05/2019 23:57:51 Novo curso  cadastrado
+
+09/05/2019 23:59:46 Novo curso  cadastrado
+
+10/05/2019 00:00:49 Novo curso  cadastrado
+
+10/05/2019 00:02:59 Novo curso  cadastrado
+
+10/05/2019 00:04:22 Novo curso  cadastrado
+
+10/05/2019 00:07:03 Novo curso  cadastrado
+
+10/05/2019 00:09:25 Novo curso  cadastrado
+
+10/05/2019 00:10:44 Novo curso  cadastrado
+
+10/05/2019 00:13:21 Novo curso  cadastrado
+
+10/05/2019 00:14:53 Novo curso  cadastrado
+
+10/05/2019 00:15:15 Atualização do curso Engenharia Civil efetuado com sucesso
+
+10/05/2019 00:18:37 Novo curso  cadastrado
+
+10/05/2019 00:19:34 Novo curso  cadastrado
+
+10/05/2019 00:22:07 Novo curso  cadastrado
+
+10/05/2019 00:22:57 Novo curso  cadastrado
+
+10/05/2019 00:24:59 Novo curso  cadastrado
+
+10/05/2019 00:26:03 Novo curso  cadastrado
+
+10/05/2019 00:26:59 Novo curso  cadastrado
+
+10/05/2019 00:27:58 Novo curso  cadastrado
+
+10/05/2019 00:31:30 Novo curso  cadastrado
+
+10/05/2019 00:32:38 Novo curso  cadastrado
+
+10/05/2019 00:35:57 Novo curso  cadastrado
+
+10/05/2019 00:36:50 Novo curso  cadastrado
+
+10/05/2019 00:37:30 Novo curso  cadastrado
+
+10/05/2019 00:38:17 Novo curso  cadastrado
+
+10/05/2019 00:39:58 Novo curso  cadastrado
+
+10/05/2019 00:41:02 Atualização do curso Psicologia efetuado com sucesso
+
+10/05/2019 00:43:37 Atualização do curso Administração efetuado com sucesso
+
+10/05/2019 00:48:04 Atualização do curso Administração efetuado com sucesso
+
+10/05/2019 00:48:23 Atualização do curso Artes Visuais efetuado com sucesso
+
+10/05/2019 00:49:19 Atualização do curso Gestão em Recursos Humanos efetuado com sucesso
+
+10/05/2019 00:49:50 Atualização do curso Gestão Ambiental efetuado com sucesso
+
+10/05/2019 00:50:42 Atualização do curso Design de Interiores efetuado com sucesso
+
+10/05/2019 00:51:13 Atualização do curso Marketing efetuado com sucesso
+
+10/05/2019 00:52:01 Atualização do curso Publicidade e Propaganda efetuado com sucesso
+
+10/05/2019 00:52:45 Atualização do curso Pedagogia efetuado com sucesso
+
+10/05/2019 00:53:01 Atualização do curso Letra efetuado com sucesso
+
+10/05/2019 00:55:23 Atualização do curso Logística efetuado com sucesso
+
+10/05/2019 00:55:59 Atualização do curso Logística efetuado com sucesso
+
+10/05/2019 00:56:10 Atualização do curso Engenharia Civil efetuado com sucesso
+
+10/05/2019 00:56:46 Atualização do curso Engenharia Elétrica efetuado com sucesso
+
+10/05/2019 00:58:47 Atualização do curso Logística efetuado com sucesso
+
+10/05/2019 01:03:17 Atualização do curso Logística efetuado com sucesso
+
+10/05/2019 01:04:41 Atualização do curso Análise e Desenvolvimento de Sistemas efetuado com sucesso
+
+10/05/2019 01:05:00 Atualização do curso Ciências Contábeis efetuado com sucesso
+
+10/05/2019 01:05:11 Atualização do curso Arquitetura e Urbanismo efetuado com sucesso
+
+10/05/2019 01:05:38 Atualização do curso Gestão Financeira efetuado com sucesso
+
+10/05/2019 17:48:01 Criação de faculdade
+
+10/05/2019 17:51:00 Nova faculdade Centro Universitario UNIFAAT cadastrada
+
